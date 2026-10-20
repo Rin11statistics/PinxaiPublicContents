@@ -1,0 +1,2 @@
+# PinxaiPublicContents
+pinxaiの開発記事や成人向けでない画像データを管理するrepoです。
