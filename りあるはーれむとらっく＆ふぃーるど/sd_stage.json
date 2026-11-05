@@ -1,0 +1,106 @@
+{
+  "cols": 5,
+  "rows": 4,
+  "cell_w": 235,
+  "cell_h": 400,
+  "scale": 0.4296,
+  "items": [
+    {
+      "name": "kaede",
+      "w": 153,
+      "h": 347
+    },
+    {
+      "name": "kanon",
+      "w": 158,
+      "h": 356
+    },
+    {
+      "name": "makoto",
+      "w": 175,
+      "h": 376
+    },
+    {
+      "name": "shiori",
+      "w": 182,
+      "h": 390
+    },
+    {
+      "name": "mitsuki",
+      "w": 152,
+      "h": 368
+    },
+    {
+      "name": "shigure",
+      "w": 158,
+      "h": 363
+    },
+    {
+      "name": "mirei",
+      "w": 141,
+      "h": 390
+    },
+    {
+      "name": "koharu",
+      "w": 176,
+      "h": 363
+    },
+    {
+      "name": "aino",
+      "w": 156,
+      "h": 400
+    },
+    {
+      "name": "hikari",
+      "w": 235,
+      "h": 397
+    },
+    {
+      "name": "chisato",
+      "w": 153,
+      "h": 328
+    },
+    {
+      "name": "mahiro",
+      "w": 187,
+      "h": 358
+    },
+    {
+      "name": "touka",
+      "w": 178,
+      "h": 348
+    },
+    {
+      "name": "rikka",
+      "w": 180,
+      "h": 362
+    },
+    {
+      "name": "yumeno",
+      "w": 214,
+      "h": 376
+    },
+    {
+      "name": "suzune",
+      "w": 203,
+      "h": 348
+    },
+    {
+      "name": "hinata",
+      "w": 196,
+      "h": 366
+    },
+    {
+      "name": "tsumugi",
+      "w": 143,
+      "h": 354
+    },
+    {
+      "name": "ibuki",
+      "w": 0,
+      "h": 0,
+      "empty": true
+    }
+  ],
+  "file": "sd_stage.webp"
+}
