@@ -1,0 +1,35 @@
+{
+  "cols": 5,
+  "rows": 1,
+  "cell_w": 307,
+  "cell_h": 400,
+  "scale": 0.361,
+  "items": [
+    {
+      "name": "tsuzuri",
+      "w": 209,
+      "h": 366
+    },
+    {
+      "name": "shino",
+      "w": 286,
+      "h": 373
+    },
+    {
+      "name": "minato",
+      "w": 233,
+      "h": 393
+    },
+    {
+      "name": "noa",
+      "w": 307,
+      "h": 377
+    },
+    {
+      "name": "wakana",
+      "w": 230,
+      "h": 400
+    }
+  ],
+  "file": "house_sd.webp"
+}
