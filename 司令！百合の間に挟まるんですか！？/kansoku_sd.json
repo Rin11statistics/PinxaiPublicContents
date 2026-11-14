@@ -1,0 +1,50 @@
+{
+  "cols": 4,
+  "rows": 2,
+  "cell_w": 281,
+  "cell_h": 400,
+  "scale": 0.365,
+  "items": [
+    {
+      "name": "kanna",
+      "w": 207,
+      "h": 384
+    },
+    {
+      "name": "tsubaki",
+      "w": 228,
+      "h": 370
+    },
+    {
+      "name": "azami",
+      "w": 195,
+      "h": 377
+    },
+    {
+      "name": "nazuna",
+      "w": 252,
+      "h": 374
+    },
+    {
+      "name": "rindou",
+      "w": 197,
+      "h": 400
+    },
+    {
+      "name": "dahlia",
+      "w": 281,
+      "h": 397
+    },
+    {
+      "name": "tsugumi",
+      "w": 247,
+      "h": 373
+    },
+    {
+      "name": "chidori",
+      "w": 245,
+      "h": 345
+    }
+  ],
+  "file": "kansoku_sd.webp"
+}
