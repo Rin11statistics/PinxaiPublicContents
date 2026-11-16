@@ -1,0 +1,35 @@
+{
+  "cols": 5,
+  "rows": 1,
+  "cell_w": 208,
+  "cell_h": 400,
+  "scale": 0.3008,
+  "items": [
+    {
+      "name": "yuzuki",
+      "w": 174,
+      "h": 361
+    },
+    {
+      "name": "natsuki",
+      "w": 197,
+      "h": 400
+    },
+    {
+      "name": "noel",
+      "w": 208,
+      "h": 356
+    },
+    {
+      "name": "airi",
+      "w": 170,
+      "h": 350
+    },
+    {
+      "name": "kaho",
+      "w": 166,
+      "h": 368
+    }
+  ],
+  "file": "ousama_sd.webp"
+}
