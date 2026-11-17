@@ -1,0 +1,21 @@
+{
+  "file": "timestop_art.webp",
+  "cols": 6,
+  "rows": 2,
+  "cell": 210,
+  "names": [
+    "ryoko",
+    "chizuru",
+    "miori",
+    "sawako",
+    "konatsu",
+    "shion",
+    "emiri",
+    "tamaki",
+    "manami",
+    "saori",
+    "haruna",
+    "yukako"
+  ],
+  "cell_h": 300
+}
